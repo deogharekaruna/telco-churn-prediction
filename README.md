@@ -78,7 +78,7 @@ customer_churn_pred/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/telco-churn-prediction.git
+git clone https://github.com/deogharekaruna/telco-churn-prediction.git
 cd telco-churn-prediction
 ```
 
@@ -138,10 +138,9 @@ joblib
 
 ## 👨‍💻 Author
 
-**Mayur**  
-📧 your-email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+karuna deoghare
+📧 karudeoghare@gmail.com
+
 
 ---
 
