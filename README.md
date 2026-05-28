@@ -5,14 +5,10 @@ A complete end-to-end Machine Learning project that predicts whether a telecom c
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://your-app-name.streamlit.app)  
-*(Replace with your Streamlit Cloud URL after deployment)*
+ You can now view your Streamlit app in your browser.
 
----
-
-## 📸 Screenshots
-
-> Add screenshots of your app here after deployment
+  Local URL: http://localhost:8501
+  Network URL: http://10.70.53.177:8501
 
 ---
 
